@@ -52,7 +52,7 @@
     "tags": {
       "type": "relation",
       "relation": "oneToMany",
-      "target": "api::post.post"
+      "target": "api::tag.tag"
     }
   }
 }
